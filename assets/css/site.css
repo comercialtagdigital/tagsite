@@ -104,6 +104,11 @@ body::after {
   -webkit-background-clip: text; background-clip: text; color: transparent;
   -webkit-box-decoration-break: clone; box-decoration-break: clone; /* gradiente inteiro em cada linha quebrada */
 }
+/* prata do logo 3D: claro em cima, aço embaixo */
+.chrome {
+  background: linear-gradient(180deg, #ffffff 25%, #a3b3c9 100%);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
 .dot { font-style: normal; color: var(--signal); }
 .lede { color: var(--mute); font-size: 1.075rem; max-width: 46ch; }
 
