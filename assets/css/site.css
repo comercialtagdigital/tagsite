@@ -98,11 +98,11 @@ body::after {
   text-wrap: balance;
 }
 .h2--xl { font-size: clamp(2.6rem, 7vw, 5.6rem); max-width: 12ch; }
-.mute { color: var(--mute-2); }
-/* prata do logo 3D: claro em cima, aço embaixo */
-.chrome {
-  background: linear-gradient(180deg, #ffffff 25%, #a3b3c9 100%);
+/* ouro metálico: mesma lógica de luz do prata (claro em cima, sombra no meio, reflexo embaixo) */
+.gold {
+  background: linear-gradient(180deg, #fbeec1 0%, #e9c46a 38%, #b98a2e 72%, #e6c178 100%);
   -webkit-background-clip: text; background-clip: text; color: transparent;
+  -webkit-box-decoration-break: clone; box-decoration-break: clone; /* gradiente inteiro em cada linha quebrada */
 }
 .dot { font-style: normal; color: var(--signal); }
 .lede { color: var(--mute); font-size: 1.075rem; max-width: 46ch; }
