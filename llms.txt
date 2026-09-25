@@ -1,0 +1,33 @@
+# TAG Digital
+
+> Empresa de tecnologia e marketing de Belo Horizonte (MG). Desenvolve plataformas próprias (Leadhub CRM, Superagente IA e Agilles ERP), sites e aplicações, agentes de IA, automações e integrações, e faz marketing de performance, SEO/GEO e marca. Slogan: "Tecnologia que impulsiona resultados".
+
+A TAG nasceu no marketing de performance. Depois de mais de 15 anos gerando demanda para empresas de dez segmentos, passou a construir a tecnologia que conecta atração, atendimento e gestão: o lead chega pela campanha, é atendido e qualificado por IA no WhatsApp, entra no CRM e segue para a operação.
+
+## Plataformas
+
+- [Leadhub CRM](https://www.leadhubapp.com.br): reúne leads do WhatsApp, do site e das campanhas no mesmo funil, com a origem rastreada.
+- Superagente IA: agente de IA integrado ao Leadhub que responde no WhatsApp, qualifica o contato e transfere para atendimento humano.
+- [Agilles ERP](https://novo.agilles.com.br): gestão empresarial com módulos ativados conforme a operação.
+- Desenvolvimento sob medida: sites, aplicações web e integrações entre sistemas.
+
+## Soluções
+
+- Tecnologia e IA: sites e landing pages, agentes de IA, automações e integrações (APIs, n8n, sistemas legados), dados e dashboards.
+- Crescimento: mídia paga (Google Ads, Meta Ads, LinkedIn Ads), growth marketing, SEO e GEO, consultoria e plano de mídia.
+- Marca e conteúdo: identidade visual, criativos para redes e anúncios, gestão de redes sociais.
+
+## Como trabalha
+
+Diagnóstico, plano, implantação e evolução. Usa IA no planejamento, no desenvolvimento, no marketing e na operação, sempre com especialistas acompanhando.
+
+## Segmentos atendidos
+
+Saúde e bem-estar, imóveis e construção, automotivo e transporte, indústria e equipamentos, educação e cursos, e-commerce e varejo, seguros e financeiro, turismo e entretenimento, tecnologia e SaaS, alimentação e delivery.
+
+## Contato
+
+- Site: https://www.tagdigitalbr.com.br/
+- WhatsApp: +55 31 99315-1956
+- E-mail: comercialtagdigital@gmail.com
+- Local: Belo Horizonte, MG, Brasil

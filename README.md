@@ -1,6 +1,8 @@
 # TAG Digital — site
 
-Site institucional da TAG Digital (redetag.com.br). HTML, CSS e JS puros: sem build, sem dependências, sem cookies.
+Site institucional da TAG Digital (www.tagdigitalbr.com.br). HTML, CSS e JS puros: sem build e sem dependências. Medição via Google Tag Manager (`GTM-T42P4MW3`); tags e cookies são configurados no painel do GTM.
+
+SEO/GEO: metadados e pré-visualização de link no `<head>`, JSON-LD (organização, plataformas e FAQ, gerado a partir do FAQ visível), `robots.txt` liberando buscadores e assistentes de IA, `sitemap.xml` e `llms.txt`. Domínio configurado: `https://www.tagdigitalbr.com.br/`.
 
 ## Rodar localmente
 
